@@ -22,11 +22,11 @@ Geo data.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2015`
+__Mathematical gymnasium, Čakovec.__
 
 `June 1661 - now`
-__Trinity College, Cambridge__
+__Faculty of forestry, University of Zagreb__
 
 - Sizar
 
