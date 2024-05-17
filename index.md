@@ -1,28 +1,23 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nikola Geršak's CV
 ---
 # Nikola Geršak
 Forester, Environmental scientist, Python and GIS developer.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working in startup company that focuses on developing and modelling climate risk predictions
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Everything concerning data
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Geo data. 
 
 
 ## Education
