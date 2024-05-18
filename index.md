@@ -5,44 +5,51 @@ title: Nikola Geršak's CV
 # Nikola Geršak
 Forester, Environmental scientist, Python and GIS developer.
 
+<div id="webaddress">
+| <a href="https://www.linkedin.com/in/nikola-gersak-aab876199/">Linkedin</a>
+| <a href="https://github.com/grahekk">GithHub</a>
+</div>
 
-## Currently
+## Summary
 
-Working in startup company that focuses on developing and modelling climate risk predictions  
+Environmental scientist working in startup company that focuses on developing and modelling climate risk predictions. 
+Currently developing climate risk prediction models, building data pipelines and managing SQL database.
 
-### Specialized in
+## Work experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`July 2023 – now` 
+__Data scientist__
+part of R&D team developing climate risk predictions and backend of a web app
+ - Developing flooding models and data (coastal flooding, river flooding) for Europe and North America
+ -   scikit-learn, skimage, openCV, gdal
+ - Integrating data with the app, managing database
+ -   SQLAlchemy, Postgres, PostGIS, linux
+ - Building data pipelines for (geo)data extraction, transformation and load
+ -   python, gdal, pandas, numpy
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`June 2020 – April 2023` 
+__Expert associate in environmental protection__
+responsible for colaborating on Environmental impact assessments projects
+ - Geospatial analyses of environmental data
+ - Impact assessment of development projects on biodiversity
+ - Automatizing workflows with python
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011-2015`
+__Prirodoslovno-matematička gimnazija, Gimnazija Josipa Slavenskog Čakovec.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2015 - 2019`
+__Bachelors in Forestry engineering__
+Faculty of forestry, University of Zagreb
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2019 - 2021`
+__Masters in Environmental sciences__
+Faculty of science, University of Zagreb
+- Masters thesis: <a href="https://repozitorij.pmf.unizg.hr/islandora/object/pmf:10308">Distribution and ecological characteristics of Potamogeton L. species in the rivers of the Pannonian ecoregion in Croatia</a>
+-   Tools and methods used: QGIS, R, CCA, DCA, GAM and TWINSPAN 
 
 
 
@@ -55,28 +62,29 @@ Associate, *French Academy of Science*, Paris, France
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Conferences
 
 
-## Occupation
+## Personal skills
 
-`1600`
-__Royal Mint__, London
+### Languages
+- Croatian - native
+- English - C1/C2
+- Spanish - B1
 
-- Warden
-- Minted coins
+### Soft skills
+Gained through professional career, volunteering and organising activities in KSET.
+- Team player
+- Efficient communicator
+- Agile mindset and planning skills
+- Critical thinking
+- Presentational skills
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### Hobbies
+ - Judo
+ - Weekend hiking and mountaineering
+ - Baking sourdough bread and fermenting Kombucha
+ - Continuously learning new programming and software development skills
 
 
 <!-- ### Footer
