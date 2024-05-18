@@ -21,11 +21,11 @@ Currently developing climate risk prediction models, building data pipelines and
 __Data scientist__
 part of R&D team developing climate risk predictions and backend of a web app. Climatig, Zagreb
  - Developing flooding models and data (coastal flooding, river flooding) for Europe and North America
-   - scikit-learn, skimage, openCV, gdal
- - Integrating data with the app, managing database
+   - scikit-learn, skimage, openCV, rasterio, numpy
+ - Integrating data with the app, building backend of an app, managing database
    - SQLAlchemy, Postgres, PostGIS, linux
  - Building data pipelines for (geo)data extraction, transformation and load
-   - python, gdal, pandas, numpy
+   - python, gdal, pandas
 
 `June 2020 – April 2023` 
 __Expert associate in environmental protection__
@@ -67,6 +67,7 @@ Kiš, K. and Geršak, N., 2024. <a href="https://hrcak.srce.hr/clanak/453457">EA
 - Youth center, Čakovec
 - Motovun film festival, TamTam music festival, Inmusic festival
 - European universities games 2016, Rijeka
+
 `2016 - 2021`
 - KSET (Electrical engineering student's club)
 
