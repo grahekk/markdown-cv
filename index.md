@@ -62,14 +62,17 @@ High school education
 
 Kiš, K. and Geršak, N., 2024. <a href="https://hrcak.srce.hr/clanak/453457">EASEMENT OF FORESTS AND FOREST LAND FOR THE GROWING OF PERENNIAL CROPS-THE ANALYSIS OF (NON) FUNCTIONALITY REGARDING THE ECOLOGICAL NETWORK AND ECOSYSTEM FUNCTIONS.</a> Environmental Engineering-Inženjerstvo okoliša, 10(1-2), pp.30-34.
 
+## Creative works
+https://environmentalimpactassistant.eu/
+ - a web app for automatizing process for creation of EIA
 
 ## Volunteering
-- Youth center, Čakovec
-- Motovun film festival, TamTam music festival, Inmusic festival
-- European universities games 2016, Rijeka
-
 `2016 - 2021`
 - KSET (Electrical engineering student's club)
+- Motovun film festival, TamTam music festival, Inmusic festival and other smaller festivals
+- European universities games 2016, Rijeka
+- Youth center, Čakovec
+
 
 ## Personal skills
 
